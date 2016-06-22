@@ -88,3 +88,5 @@ C:\Users\john.manzano\OneDrive\Personal Projects\WebApi Tutorial\BookService\Boo
 C:\Users\john.manzano\OneDrive\Personal Projects\WebApi Tutorial\BookService\BookService\obj\Debug\BookService.csprojResolveAssemblyReference.cache
 C:\Users\john.manzano\OneDrive\Personal Projects\WebApi Tutorial\BookService\BookService\obj\Debug\BookService.dll
 C:\Users\john.manzano\OneDrive\Personal Projects\WebApi Tutorial\BookService\BookService\obj\Debug\BookService.pdb
+C:\Users\john.manzano\OneDrive\Personal Projects\WebApi Tutorial\BookService\BookService\obj\Debug\BookService.Migrations.Initial.resources
+C:\Users\john.manzano\OneDrive\Personal Projects\WebApi Tutorial\BookService\BookService\obj\Debug\BookService.csproj.GenerateResource.Cache
